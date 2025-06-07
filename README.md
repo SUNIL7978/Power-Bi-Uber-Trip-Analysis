@@ -34,7 +34,7 @@ Payment Type - indicates the method used to pay for the ride. In the U.S., commo
 •	Apple Pay / Google Pay
 •	Uber Cash
 
-                                                              Location Table
+Location Table
 Uber trip data in conjunction with a location reference table to uncover meaningful insights. Specifically, the analysis aims to:
 1.	Identify the most frequently booked vehicle types
 2.	Determine the most common pickup and drop-off locations
