@@ -1,11 +1,6 @@
-			
-				 
-		 
-	 
 	
- 																					
-											
-					 ![DashBoard 1 Overview Analysis](https://github.com/user-attachments/assets/0e424791-d8f8-4081-b8db-0c96863e38e6)
+				 
+![DashBoard 1 Overview Analysis](https://github.com/user-attachments/assets/98b22f50-ab0e-4730-b27e-b86457045177)
 
 			
 Uber Ride Analysis in US Based
@@ -17,6 +12,7 @@ Conduct a comprehensive analysis of Uber ride data to uncover key insights. The 
 4.	Trip distance patterns and distributions
 5.	Additional data-driven insights such as peak ride times, average trip durations, and fare trends
 Trip ID - that uniquely identifies a single Uber ride in the dataset.
+
 Pickup Time - refers to the exact date and time when a passenger is picked up by the Uber driver and the trip
 Drop-off Time - refers to the exact date and time when a passenger is dropped off at their destination and the Uber trip ends.
 Passenger Count - refers to the number of passengers who were in the vehicle during a single Uber trip.
